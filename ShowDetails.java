@@ -5,5 +5,6 @@ public Class ShowDetails{
     System.out.print("USER DETAILS:");
     //Code edited by sub user
     System.out.print("NAME:"+userName);
+    System.out.print("###EOF###");
   }
 }
